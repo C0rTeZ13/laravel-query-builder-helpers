@@ -1,5 +1,5 @@
 {
-    "name": "ensi/laravel-query-builder-helpers",
+    "name": "c0rtez13/laravel-query-builder-helpers",
     "description": "This package contains extensions for laravel-query-builder",
     "type": "library",
     "license": "MIT",
